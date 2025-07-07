@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Carlos+Holub&fontSize=35&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=1000&lines=Fala+dev!+Eu+sou+Carlos+Holub.;Tenho+20+anos+e+moro+em+Porto+União,+SC.;Sou+estudante+de+Engenharia+de+Software+na+UGV.;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=1000&lines=Fala+dev!+Eu+sou+Carlos+Holub.;Tenho+21+anos+e+moro+em+Porto+União,+SC.;Sou+estudante+de+Engenharia+de+Software+na+UGV.;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
