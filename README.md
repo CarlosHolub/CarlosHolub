@@ -1,50 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=180&section=header&text=Carlos+Holub&fontSize=30&fontColor=ffffff" alt="Carlos Holub" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+Holub;I'm+20+years+old;From+União+da+Vitória,+PR;Software+Engineering+student+at+UGV;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosHolub&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0d1117" alt="Carlos Holub's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHolub&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-[![Carlos's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosHolub&bg_color=0d1117&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">  
-  <a href="https://www.instagram.com/seu_instagram_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div> 
+<h1 align="center">🔥 Carlos Holub 🔥</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF0000&width=435&lines=Hey%2C+I'm+Carlos!;Software+Engineering+student;Fullstack+developer+in+progress;Passionate+about+tech+%26+code."/>
+</p>
 
 ---
 
-### 💻 Main Skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+### 🧠 Sobre mim:
+- 🎓 Estudante de Engenharia de Software na **UGV**
+- 🌍 Moro em Porto União - SC
+- 💻 Foco em desenvolvimento **web**, **mobile** e **backend**
+- 🐍 Faço automações, scripts e APIs com **Python**
+- 🚀 Sempre em busca de novos desafios e tecnologias
 
 ---
 
-### 🛠️ Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+### 🚀 Minhas Tecnologias Favoritas:
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=FF0000)
+![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=FF0000)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=FF0000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=FF0000)
+
+#### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=FF0000)
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=FF0000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=FF0000)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=FF0000)
+
+#### 🧰 Outros
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=FF0000)
+![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=FF0000)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=FF0000)
 
 ---
 
-### 📚 Currently Learning:
-![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-0D1117?style=for-the-badge&logo=nginx&labelColor=0D1117)&nbsp;
-
----
+### 📈 Estatísticas GitHub
 
 <div align="center">
-<br><p align="center"><b>👁️‍🗨️ Visitors Count</b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/{CarlosHolub}/count.svg" /></p> 
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=CarlosHolub&show_icons=true&theme=radical&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117&hide_border=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHolub&layout=compact&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+---
+
+### 📊 Atividade recente
+[![Carlos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosHolub&bg_color=0d1117&color=FF0000&line=FF0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🌐 Redes sociais:
+
+<div align="center">
+  <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF0000">
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0000">
+  </a>
+</div>
+
+---
+
+### 👁️‍🗨️ Contador de visitas
+<p align="center">
+  <img src="https://profile-counter.glitch.me/CarlosHolub/count.svg" />
+</p>
