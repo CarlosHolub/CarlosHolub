@@ -60,7 +60,7 @@
   <a href="https://www.instagram.com/carlosholub_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF0000" />
   </a>
-  <a href="mailto:carlos@loststudios.com.br">
+  <a href="mailto:carlos@loststudios.com.br ">
     <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0000" />
   </a>
 </div>
