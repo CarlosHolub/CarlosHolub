@@ -19,7 +19,7 @@
 - 🌍 De Porto União - SC
 - 🧠 Apaixonado por desenvolvimento backend e automações com **Python**
 - 💼 Dono dos projetos:
-  - 🔗 [loststudios.com.br](http://loststudios.com.br)
+  - 🔗 [loststudios.com.br](http://www.loststudios.com.br)
   - ☁️ [lostcloud.com.br](http://lostcloud.com.br)
   - 🌐 [redelost.com.br](http://redelost.com.br)
 - 🚀 Sempre em busca de aprendizado, inovação e soluções inteligentes
