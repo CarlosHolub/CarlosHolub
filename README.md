@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software na **UGV**
+- 🎓 Estudante de Engenharia de Software na **Teste**
 - 🌍 De Porto União - SC
 - 🧠 Apaixonado por desenvolvimento backend e automações com **Python**
 - 💼 Dono dos projetos:
